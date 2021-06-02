@@ -1,0 +1,5 @@
+
+<h2>Apache2 + PHP + SSI Example</h2>
+
+date:
+<!--#exec cmd="date" -->
